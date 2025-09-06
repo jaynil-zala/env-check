@@ -18,12 +18,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaynil-zala/env-check.git"
+    "url": "https://github.com/jaynil-zala/jaynil-001-env-check.git"
   },
   "bugs": {
-    "url": "https://github.com/jayni-zala/env-check/issues"
+    "url": "https://github.com/jayni-zala/jaynil-001-env-check/issues"
   },
-  "homepage": "https://github.com/jayni-zala/env-check#readme",
+  "homepage": "https://github.com/jayni-zala/jaynil-001-env-check#readme",
   "devDependencies": {
     "@types/node": "^24.3.1",
     "typescript": "^5.9.2"
