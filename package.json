@@ -1,6 +1,6 @@
 {
-  "name": "@jaynil001/env-check",
-  "version": "1.0.0",
+  "name": "env-check",
+  "version": "1.0.2.1",
   "description": "Lightweight runtime environment variable validator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
