@@ -1,0 +1,34 @@
+{
+  "name": "@jaynil001/env-check",
+  "version": "1.0.0",
+  "description": "Lightweight runtime environment variable validator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "env",
+    "dotenv",
+    "validator",
+    "typescript"
+  ],
+  "author": "Jaynil Zala",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaynil-zala/env-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jayni-zala/env-check/issues"
+  },
+  "homepage": "https://github.com/jayni-zala/env-check#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  }
+}
